@@ -1,1 +1,1 @@
-# diaspora-Connect
+Diaspora Connect Lean Version
